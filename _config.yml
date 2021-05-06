@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Let's Cook"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "Try something new."
+name                     : "nashimus"
+description              :
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -266,17 +266,32 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  ingredients:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
+  # _recipes
   - scope:
       path: ""
-      type: posts
+      type: recipes
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      author_profile: false
+      share: false
+      comments: false
+  # _ingredients
+  - scope:
+      path: ""
+      type: ingredients
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
