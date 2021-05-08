@@ -25,14 +25,14 @@ Using canned chickpeas? Skip to [Final Steps](#final-steps).
 #### Pressure Cooker
 
 1. Rinse dried chickpeas and add to pressure cooker.
-1. Add 2 cups of water.
+1. Add 3 cups of water.
 1. Cook at 15 psi for 34 minutes.
 1. Allow a natural pressure release.
 
 #### Instant Pot
 
 1. Rinse dried chickpeas and add to instant pot.
-1. Add 2 cups of water.
+1. Add 3 cups of water.
 1. Cook on high pressure for 37 minutes.
 1. Allow a natural pressure release.
 
