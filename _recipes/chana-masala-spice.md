@@ -18,7 +18,7 @@ Spice used for Chana Masala (dish).
 * 5g cinnamon sticks
 * 8g (1 tbsp) whole black peppercorns
 * 2g (5 medium) cassia or bay leaves, broken into pieces
-* 10g (10 whole) dried red chiles, broken into pieces
+* 10g (10 whole) dried red chili peppers, broken into pieces
 * 1.2g (1 tbsp) kasoori methi (dried fenugreek leaves)
 * 16g (2 tbsp) amchur (dried mango powder)
 * 5g (1 tbsp) dried ginger powder
