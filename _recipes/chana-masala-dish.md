@@ -7,7 +7,7 @@ Curried Chickpeas
 ## Ingredients
 
 * 150g yellow onion
-* 100g (1/2 cup) - ghee/butter/oil
+* 50g (1/4 cup) - ghee/butter/oil
 * 16 ounce can - coconut milk
 * 15 ounce can - crushed tomatoes
 * 275g - dried chickpeas
