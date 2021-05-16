@@ -38,7 +38,7 @@ Using canned chickpeas? Skip to [Final Steps](#final-steps).
 
 #### Eventual Pot
 
-If you do not have a pressure cooker, you can still cook dried chickpeas it just takes longer.
+If you do not have a pressure cooker.
 
 1. Soak dried chickpeas for 2-3 hours.
 1. Drain water from soaked chickpeas.
