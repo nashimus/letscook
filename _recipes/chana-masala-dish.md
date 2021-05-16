@@ -13,7 +13,7 @@ Curried Chickpeas
 * 275g - dried chickpeas
   * or 4-6 (15 ounce) cans - chickpeas
 * 8g (1 tbsp) - red chili powder
-* 20g (2 1/2 tbsp) - chana masala (spice)
+* 20g (2 1/2 tbsp) - [chana masala (spice)](../chana-masala-spice)
 * 4g (1/2 tbsp) - turmeric
 
 ## Directions
