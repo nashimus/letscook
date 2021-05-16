@@ -2,7 +2,7 @@
 title: "Chana Masala (dish)"
 ---
 
-Curried Chickpeas
+Curried Chickpeas (Optionally Vegan)
 
 ## Ingredients
 
