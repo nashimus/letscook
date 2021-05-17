@@ -1,5 +1,5 @@
 ---
-title: "North Indian Curry"
+title: "Northern Curry"
 ---
 
 Spicy vegan, vegetarian, or omnivore curry.
