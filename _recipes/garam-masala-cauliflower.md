@@ -2,7 +2,7 @@
 title: "Garam Masala Cauliflower"
 ---
 
-Spicy Vegan Cauliflower
+Spicy Cauliflower (Vegan)
 
 ## Ingredients
 
@@ -17,13 +17,13 @@ Spicy Vegan Cauliflower
 
 ## Directions
 
-### Prepatory to Oven
+### Cut and Mix
 1. Preheat oven to 425 with convection on.
 1. Cut cauliflower into medium size florets and place in a big enough bowl to allow mixing.
-1. Drizzle enough olive oil over the florets so that al the pieces look shiny and coated when thoroughly mixed. Start with 2 tablespoons of olive oil and add prn (a little extra won't hurt).
+1. Drizzle enough olive oil over the florets so that all the pieces look shiny and coated when thoroughly mixed. Start with 2 tablespoons of olive oil and add prn (a little extra won't hurt).
 1. Sprinkle on the garam masala, tumeric, sugar, salt, cayenne powder, and asafoetida. Stir until all florets look evenly colored.
 
 ### Oven
 1. Spread on a large metal pan with a lip and roast in oven for 30 minutes.
-    *Turn cauliflower on pan at 10 minute intervals.
+  *Turn cauliflower on pan at 10 minute intervals.
 1. Ready when florets are brown and crispy.
