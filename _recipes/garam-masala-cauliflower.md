@@ -25,5 +25,5 @@ Spicy Cauliflower (Vegan)
 
 ### Oven
 1. Spread on a large metal pan with a lip and roast in oven for 30 minutes.
-  *Turn cauliflower on pan at 10 minute intervals.
+  * Turn cauliflower on pan at 10 minute intervals.
 1. Ready when florets are brown and crispy.
